@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-printtf("hello dibe darshan dai ko world");
+printtf("hello to the programmer world");
 return 0;
 }
